@@ -1,2 +1,0 @@
-I've cloned the landing login page of netflix 
-using react native 
